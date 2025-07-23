@@ -1,0 +1,21 @@
+| **Problem Title**                              | **Exp** | **Difficulty** | **Avg. Time** | **Attempts** | **Upvotes** |
+| ---------------------------------------------- | ------: | -------------- | ------------- | -----------: | ----------: |
+| Rotate Array                                   |     +42 | Easy           | 25 mins       |       150.1k |        1.3k |
+| Count Ways To Reach The N-th Stairs            |     +50 | Moderate       | 30 mins       |        89.3k |         803 |
+| Rod Cutting Problem                            |     +20 | Moderate       | 40 mins       |       101.5k |         464 |
+| Merge Sort                                     |     +83 | Easy           | 15 mins       |        57.9k |         324 |
+| Find Peak Element                              |     +23 | Easy           | 15 mins       |        67.2k |         301 |
+| Longest Consecutive Sequence                   |     +33 | Moderate       | 40 mins       |        41.2k |         266 |
+| Find Number Of Islands                         |     +79 | Moderate       | 34 mins       |        11.4k |         165 |
+| LRU Cache Implementation                       |     +56 | Moderate       | 25 mins       |        11.6k |         124 |
+| Count Univalue Subtrees                        |      +5 | Moderate       | 30 mins       |         5.6k |         115 |
+| Maximum Size Rectangle Sub-matrix With All 1’s |     +17 | Hard           | 10 mins       |          10k |         109 |
+| **Problem Title**           | **Exp** | **Difficulty** | **Avg. Time** | **Attempts** | **Upvotes** |
+| --------------------------- | ------: | -------------- | ------------- | -----------: | ----------: |
+| Longest Repeating Substring |      +6 | Moderate       | 10 mins       |        10.8k |          98 |
+| Reverse of a Number         |      +7 | Easy           | –             |       256.9k |          94 |
+| Symmetric Tree              |     +16 | Easy           | 20 mins       |        12.9k |          75 |
+| Minimum Sum Subarray        |      +1 | Easy           | 15 mins       |         1.6k |          16 |
+| Next Greater Element - I    |      +7 | Moderate       | –             |         2.3k |          15 |
+| Tic Tac Toe Winner          |      +1 | Hard           | 40 mins       |         0.4k |           7 |
+| City And Bridges            |      +6 | Moderate       | 50 mins       |         0.5k |           6 |
